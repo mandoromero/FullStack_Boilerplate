@@ -1,5 +1,5 @@
 {
-  "name": "fullstack_bp",
+  "name": "FullStack_Boilerplate",
   "version": "1.0.0",
   "description": "Fullstack boilerplate with Vite + React frontend and Node.js backend",
   "main": "index.js",
